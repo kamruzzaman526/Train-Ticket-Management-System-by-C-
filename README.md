@@ -44,7 +44,7 @@ All code are contains in Main.c file.
 ## 
 
 ![U9 1](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/5bcb43f2-8f3a-4b40-99ad-c6308e589fb2)
-![U9 2](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/b72009db-5514-4172-9719-73d725f12e64)
+![U9 2](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/80543284-b428-4fdc-b6c9-174464ebc6e7)
 
 
 
