@@ -1,5 +1,5 @@
 ## Train-Ticket-Management-System-by-C-
-This is my first year (2020) Software Development Project (SDP 1) course project. I was new then and just learned a little bit of c languese
+This is my first year (2021) Software Development Project (SDP 1) course project. I was new then and just learned a little bit of c languese
 and with the help of that knowledge I programed this software named Train Ticket Management System. This Program contains 26,756 lines of code.
 I worked extreamly hard for this software because all had to submitted in just 20 days.
 All code are contains in Main.c file.
@@ -35,8 +35,12 @@ All code are contains in Main.c file.
 ![u5](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/4d978593-63c9-4944-93ae-8ac172e4d145)
 
 
-## 
+## Train Schedule
 
+![hoooom4](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/1ea36687-0ba4-45f6-addd-4af18407207b)
+
+
+## Ticket Purchase
 
 
 ![U6](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/47c4228c-d17b-483e-888b-764feefca891)
