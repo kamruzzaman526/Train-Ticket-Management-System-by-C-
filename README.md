@@ -37,7 +37,7 @@ All code are contains in Main.c file.
 ![U6](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/47c4228c-d17b-483e-888b-764feefca891)
 
 
-## 
+## after clicking Enter
 
 ![U7](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/bb9f0e6e-a53e-44bf-b824-36b5f7bfd912)
 
