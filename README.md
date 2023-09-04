@@ -9,6 +9,11 @@ All code are contains in Main.c file.
 
 
 
+![hoooom](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/d1ce6628-bf3b-4990-a93a-6fdee84f0752)
+
+##
+
+
 ![u1](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/9009bc72-5ff2-4a70-9033-fdc59e7037d6)
 
 ## 
@@ -55,8 +60,14 @@ All code are contains in Main.c file.
 
 ## 
 
+![BIKAS](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/f6771fc5-7fee-4b42-8626-72318ee242e6)
 
-![U77](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/9c474ba9-2cea-42c7-9a01-83c1c6da1acd)
+##
+
+![BIKASS--2](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/c06ab1d1-bed9-4b44-b6fe-fadaa58e4555)
+
+
+
 
 ## Thanks by
 ![20190929_202719](https://github.com/kamruzzaman526/Train-Ticket-Management-System-by-C-/assets/79442039/189ceddb-4c2f-4fc6-a2f0-0b18a1f73a10)
